@@ -29,4 +29,4 @@ Screenshot
 
 🚀 Getting Started
 Clone the repo:
-git clone https://github.com/yourusername/Ferris-Wheel.git
+> git clone https://github.com/yourusername/Ferris-Wheel.git
